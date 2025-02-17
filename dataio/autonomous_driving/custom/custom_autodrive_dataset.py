@@ -10,8 +10,8 @@ from glob import glob
 from typing import Any, Dict, List, Literal
 from scipy.spatial.transform import Rotation as R
 
-from nr3d_lib.utils import load_rgb
-from nr3d_lib.config import ConfigDict
+# from nr3d_lib.utils import load_rgb
+# from nr3d_lib.config import ConfigDict
 
 from dataio.scene_dataset import SceneDataset
 from dataio.utils import clip_node_data, clip_node_segments

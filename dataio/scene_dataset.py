@@ -8,7 +8,7 @@ import numpy as np
 from typing import Any, Dict, List, Literal, Tuple, Union
 from abc import ABC, abstractmethod
 
-from nr3d_lib.config import ConfigDict
+# from nr3d_lib.config import ConfigDict
 
 class SceneDataset(ABC):
     @abstractmethod # NOTE: This is the only method that must be implemented.
