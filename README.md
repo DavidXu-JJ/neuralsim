@@ -17,7 +17,7 @@ This branch is only used for the purpose of the release of data preprocessing at
 ```
 @inproceedings{xu2025streetunveiler,
   author       = {Jingwei Xu and Yikai Wang and Yiqun Zhao and Yanwei Fu and Shenghua Gao},
-  title        = {3D StreetUnveiler with Semantic-Aware 2DGS},
+  title        = {3D StreetUnveiler with Semantic-aware 2DGS - a simple baseline},
   booktitle    = {The International Conference on Learning Representations (ICLR)},
   year         = {2025},
 }
